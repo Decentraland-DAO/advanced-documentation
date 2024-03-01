@@ -11,11 +11,13 @@ The main idea of this documentation is to improve official Decentraland [Creator
 
 
 ## Documentation was made with support from Decentraland [DAO](https://dao.decentraland.org/).
+[Link to Proposal](https://decentraland.org/governance/proposal/?id=6c438fbd-d6af-4437-9d34-efc6de155166)
+
+[Link to Forum](https://forum.decentraland.org/t/dao-5c5e3b2-advanced-documentation/21704)
 
 ![Image](images/dao-banner.png)
 
-[Link to Proposal](https://decentraland.org/governance/proposal/?id=6c438fbd-d6af-4437-9d34-efc6de155166)
-[Link to Forum](https://forum.decentraland.org/t/dao-5c5e3b2-advanced-documentation/21704)
+
 
 
 
