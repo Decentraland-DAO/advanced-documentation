@@ -3,7 +3,7 @@ Advanced Documentation covers wearables, environment, npc and animations pipelin
 
 The main idea of this documentation is to improve official Decentraland [Creators Content](https://docs.decentraland.org/creator/) documentation.
 
-Jump to [Wiki](https://github.com/the-ankou/advanced-documentation/wiki/General-Information) for more information.
+Jump to [Wiki](https://github.com/the-ankou/advanced-documentation/wiki) for more information.
 
 ## Documentation written with support from Decentraland [DAO](https://dao.decentraland.org/).
 
