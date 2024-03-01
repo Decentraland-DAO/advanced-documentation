@@ -5,13 +5,6 @@ The main idea of this documentation is to improve official Decentraland [Creator
 
 Jump to [Wiki](https://github.com/the-ankou/advanced-documentation/wiki/General-Information) for more information.
 
-
-
-## ROADMAP
-Link to [Public](https://dcl-dao.notion.site/4b18666497f44bf88f8b40f210c113cd?v=eec9bb4653d7415fb134a281faba7910) and [Original](https://theankou-dcl.notion.site/ce318f1a1dbb4b2a86dcfe3f9fcbccba?v=41f5a667f5fd431e86c301c965c1f2a2)
-
-
-
 ## Documentation written with support from Decentraland [DAO](https://dao.decentraland.org/).
 
 ![Image](images/dao-banner.png)
